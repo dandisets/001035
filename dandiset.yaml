@@ -24,7 +24,7 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Semenov, Iurii; Pakhomov, Andrei (2024) Characterization
   of Neuron Action Potential Triggering Using Sine Wave Electrostimulation at Varying
-  Frequencies_part4 (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001035/draft
+  Frequencies_part4 (Version 0.240527.1432) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.001035/0.240527.1432
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -57,14 +57,15 @@ description: This experimental series aimed to characterize the triggering of ac
   frequencies. The experiments were conducted on E18 Sprague Dawley rat hippocampal
   neurons (BrainBits, Springfield, IL), employing the voltage-sensitive dye FluoVolt
   (Thermo Fisher Scientific, Waltham, MA) as the AP reporter.
+doi: 10.48324/dandi.001035/0.240527.1432
 ethicsApproval: []
-id: DANDI:001035/draft
+id: DANDI:001035/0.240527.1432
 identifier: DANDI:001035
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001035/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001035/0.240527.1432/assets.yaml
 name: Characterization of Neuron Action Potential Triggering Using Sine Wave Electrostimulation
   at Varying Frequencies_part4
 protocol: []
@@ -85,8 +86,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001035/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001035/0.240527.1432
+version: 0.240527.1432
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Generation Temporal Interference Stimulation for Non-Invasive Neuromodulation
